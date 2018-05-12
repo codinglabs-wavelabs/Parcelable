@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parcelable</string>
+    <string name="name">Name</string>
+    <string name="college">College</string>
+    <string name="qualification">Qualification</string>
+    <string name="save">save</string>
+</resources>
